@@ -27,3 +27,5 @@
 2024-11-27 16:55:18 - Koneksi berhasil ke database.
 2024-11-27 17:10:11 - Koneksi berhasil ke database.
 2024-11-27 17:12:03 - Koneksi berhasil ke database.
+2026-03-14 19:41:31 - Koneksi gagal: No suitable driver found for jdbc:mysql://localhost:3306/db_kelompok7
+2026-03-14 19:41:34 - Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "<local4>" is null
